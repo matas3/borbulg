@@ -1,2 +1,2 @@
-# borgulg
+# Borgulg
 Animal photos website
