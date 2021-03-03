@@ -1,2 +1,2 @@
-# Borgulg
+# Borbulg
 Animal photos website
