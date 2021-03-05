@@ -1,0 +1,28 @@
+html,
+body {
+	padding: 0px;
+	margin: 0px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0;
+}
+
+.header {
+	background-color: #949494;
+	color: #4b81f5;
+	font-size: 30px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 16px;
+	padding-right: 16px;
+	margin-bottom: 30px;
+}
+.header .beggining {
+	color: #ffffff;
+}
