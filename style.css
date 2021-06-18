@@ -71,3 +71,8 @@ nav a {
 .link {
 	color: white;
 }
+input {
+	padding: 5px;
+
+	font-size: 20px;
+}
